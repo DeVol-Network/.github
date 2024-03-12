@@ -1,5 +1,9 @@
 <br>
 
+<p align="center"><img width="300" src="/img/DeVol_logo.png" alt="DeVol Network Logo"></p>
+
+<br>
+
 <h3 align="center">Complete Crypto Options Solutions.&nbsp;</h3>
 <h4 align="center">Unlock the power of institutional-grade DeFi with on-chain trading, multi-leg orders, quantitative strategies, and advanced analytics.</h4>
 
